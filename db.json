@@ -10,11 +10,6 @@
       "id": 2,
       "title": "Post 2"
     },
-    {
-      "userID": 1,
-      "id": 3,
-      "title": "Post 3"
-    }
   ],
   "comments": [
     {
